@@ -1,5 +1,10 @@
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='175'>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;TThis+is+Ismael+Cedillo....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 <h2 align="center">
   HIII 👨‍💻 Welcome to Nicolas Cedillo's profile!
@@ -8,8 +13,12 @@
 
 
 <div aling="justify">
-  Welcome to my profile, I am a Software Engineering student, I am very passionate about technology and I am also a free-lancer :)  
+  Welcome to my profile, I am a Software Engineering student, I am very passionate about technology and I am also a free-lancer :) 💻
  <div>
+ <div aling="justify">
+   I really like AI, mobile application development and cybersecurity. 
+   Currently learning to develop applications with Flutter , soon I will be uploading new changes to my repository. 
+  <div>
 
 
 
