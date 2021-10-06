@@ -1,9 +1,37 @@
-### Hi there 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsmaelNicolas&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelNicolas&layout=compact&theme=github_dark)](https://github.com/IsmaelNicolas/github-readme-stats)
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 
+<h2 align="center">
+  HIII 👨‍💻 Welcome to Nicolas Cedillo's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+
+
+<div aling="justify">
+  Welcome to my profile, I am a Software Engineering student, I am very passionate about technology and I am also a free-lancer :)  
+ <div>
+
+
+
+
+
+
+<div align="center">
+  <a href="https://github.com/IsmaelNicolas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsmaelNicolas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/IsmaelNicolas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelNicolas&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red">
+  
+</div>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
 
