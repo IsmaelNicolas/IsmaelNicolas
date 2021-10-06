@@ -20,21 +20,26 @@
    Currently learning to develop applications with Flutter , soon I will be uploading new changes to my repository. 
   <div>
 
+#
+    
+### Projects and Dev Stuffs:
 
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
 
-
-
-
-<div align="center">
-  <a href="https://github.com/IsmaelNicolas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsmaelNicolas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-</div>
-
-<div align="center">
-  <a href="https://github.com/IsmaelNicolas">
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsmaelNicolas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelNicolas&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-  
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=IsmaelNicolas&hide_border=true" />
+</details>
+
+#
 
  <div align="center">Visitors</div>
 <div align="center">
