@@ -11,16 +11,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
+<div aling="center">
+<div aling="center">Welcome to my profile, I am a Software Engineering student, I am very passionate about technology and I am also a free-lancer :) 💻<div>
+ <div aling="center">I really like AI, mobile application development and cybersecurity.🚫 <div>
+ <div aling="center">Currently learning to develop applications with Flutter , soon I will be uploading new changes to my repository.📱 <div>
+<div aling="center">I don't like web development but I do have knowledge of the topic <div>
+<div>
 
-<div aling="justify">
-  Welcome to my profile, I am a Software Engineering student, I am very passionate about technology and I am also a free-lancer :) 💻
- <div>
- <div aling="justify">
-   I really like AI, mobile application development and cybersecurity. 
-   Currently learning to develop applications with Flutter , soon I will be uploading new changes to my repository. 
-  <div>
-
-#
+  #
     
 ### Projects and Dev Stuffs:
 
