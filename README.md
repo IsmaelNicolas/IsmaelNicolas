@@ -12,7 +12,7 @@
 </h2>
 
 <div aling="center">
-<div aling="center">Welcome to my profile, I am a Software Engineering student, I am very passionate about technology and I am also a free-lancer :) 💻<div>
+<div aling="center">Welcome to my little world, I am a Software Engineering student, I am very passionate about technology and I am also a free-lancer :) 💻<div>
  <div aling="center">I really like AI, mobile application development and cybersecurity.🚫 <div>
  <div aling="center">Currently learning to develop applications with Flutter , soon I will be uploading new changes to my repository.📱 <div>
 <div aling="center">I don't like web development but I do have knowledge of the topic <div>
@@ -22,22 +22,20 @@
     
 ### Projects and Dev Stuffs:
 
-<details>	
+
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsmaelNicolas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelNicolas&layout=compact&langs_count=7&theme=github_dark"/>
-</details>
 
-<details>	
+
+
   <summary><b>☄️ Github Streaks</b></summary>
-
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=IsmaelNicolas&hide_border=true" />
-</details>
-
-#
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=IsmaelNicolas&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" />
+</summary>
+ 
   
  <div align="center">Visitors</div>
 <div align="center">
