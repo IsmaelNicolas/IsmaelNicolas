@@ -12,10 +12,13 @@
 </h2>
 
 <div aling="center">
-<div aling="center">Welcome to my little world, I am a Software Engineering student, I am very passionate about technology and I am also a free-lancer :) 💻<div>
- <div aling="center">I really like AI, mobile application development and cybersecurity.🚫 <div>
- <div aling="center">Currently learning to develop applications with Flutter , soon I will be uploading new changes to my repository.📱 <div>
-<div aling="center">I don't like web development but I do have knowledge of the topic <div>
+Welcome to my little world! 🤓 I'm a Software Engineering student and a passionate technology enthusiast. I also work as a freelancer 💻. My main interest lies in the fascinating field of Artificial Intelligence, as well as backend development and cybersecurity.
+
+Among my favorite technologies are C++, Go, and Python, which I master fluently and utilize to create efficient and robust solutions. Each of them has unique features that allow me to tackle various challenges in software development.
+
+I consider myself committed to excellence and strive to stay updated with the latest trends and advancements in the industry. My goal is to continue learning and growing professionally in this exciting field of engineering.
+
+I'm thrilled to be part of this presentation and share my knowledge and experience with all of you. Thank you for your attention!
 <div>
 
   #
