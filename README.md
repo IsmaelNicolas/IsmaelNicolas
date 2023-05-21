@@ -1,26 +1,29 @@
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='175'>
+<img align='right' src='https://octodex.github.com/images/daftpunktocat-guy.gif' width='175'>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;TThis+is+Ismael+Cedillo....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h2 align="center">
-  HIII 👨‍💻 Welcome to Nicolas Cedillo's profile!
+  👨‍💻 Welcome to my world
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
 </h2>
 
 <div aling="center">
-Welcome to my little world! 🤓 I'm a Software Engineering student and a passionate technology enthusiast. I also work as a freelancer 💻. My main interest lies in the fascinating field of Artificial Intelligence, as well as backend development and cybersecurity.
-
-Among my favorite technologies are C++, Go, and Python, which I master fluently and utilize to create efficient and robust solutions. Each of them has unique features that allow me to tackle various challenges in software development.
-
-I consider myself committed to excellence and strive to stay updated with the latest trends and advancements in the industry. My goal is to continue learning and growing professionally in this exciting field of engineering.
-
-I'm thrilled to be part of this presentation and share my knowledge and experience with all of you. Thank you for your attention!
+I am a passionate Software Engineering student specialized in Artificial Intelligence, backend development and cybersecurity 🚫. My favorite technologies Docker, Go and Python, among others, I like to provide efficient solutions for various software challenges. I am dedicated to excellence, constantly updating my skills to stay ahead of industry trends. Excited to share my knowledge and experience with you all!
 <div>
+  
 
+## My skills:
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,neovim,cpp,python,go,postgresql,linux," />
+  </a>
+</p>
+  
   #
     
 ### Projects and Dev Stuffs:
