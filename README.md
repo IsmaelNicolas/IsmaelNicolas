@@ -7,10 +7,9 @@
 </h1>
 
 <h2 align="center">
-  👨‍💻 Welcome to my world
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
+  I'm Ismael Nicolas – a driven Software Engineer focused on creating impactful solutions through innovative technology!
 </h2>
+
 
 <div aling="center">
 I am a passionate Software Engineering student specialized in Artificial Intelligence, backend development and cybersecurity 🚫. My favorite technologies Docker, Go and Python, among others, I like to provide efficient solutions for various software challenges. I am dedicated to excellence, constantly updating my skills to stay ahead of industry trends. Excited to share my knowledge and experience with you all!
@@ -20,7 +19,7 @@ I am a passionate Software Engineering student specialized in Artificial Intelli
 ## My skills:
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,neovim,cpp,python,go,postgresql,linux," />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,rails,neovim,ruby,python,go,postgresql,linux," />
   </a>
 </p>
   
