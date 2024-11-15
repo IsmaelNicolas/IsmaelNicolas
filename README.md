@@ -1,12 +1,12 @@
-<img align='right' src='https://octodex.github.com/images/baracktocat.jpg' width='175'>
 
 <h2 align="center">
   I'm Ismael Nicolas – a driven Software Engineer focused on creating impactful solutions through innovative technology!
 </h2>
 
 <div align="center">
-  <p>I am a passionate Software Engineering student specialized in Artificial Intelligence, backend development, and cybersecurity 🚫. My favorite technologies are Docker, Go, and Python, among others. I enjoy providing efficient solutions to various software challenges and am dedicated to excellence. I constantly update my skills to stay ahead of industry trends and am excited to share my knowledge and experience with you all!</p>
+  <p>I'm a dedicated software engineer who thrives on developing innovative solutions. I specialize in using Ruby on Rails, Docker, Python, MySQL, Redis, and MongoDB. I am passionate about creating impactful applications through Artificial Intelligence, data analysis, and robust backend development. I have a constant drive for learning new technologies and expanding my expertise. In addition to coding, I enjoy designing in Figma as a creative hobby.</p>
 </div>
+<img align='right' src='https://octodex.github.com/images/baracktocat.jpg' width='175'>
 
 ---
 
@@ -38,14 +38,11 @@
 ## 📈 GitHub Stats:
 <summary><b>⚡ GitHub Stats</b></summary>
 <br />
-<img height="180em" alt="GitHub stats of Ismael Nicolas" src="https://github-readme-stats.vercel.app/api?username=IsmaelNicolas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-<img height="180em" alt="Top languages of Ismael Nicolas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelNicolas&layout=compact&langs_count=7&theme=github_dark" />
+<div style="display: flex; justify-content: space-between; align-items: center; width:100%">
+  <img height="180em" alt="GitHub stats of Ismael Nicolas" src="https://github-readme-stats.vercel.app/api?username=IsmaelNicolas&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  <img height="180em" alt="Top languages of Ismael Nicolas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelNicolas&layout=compact&langs_count=7&theme=github_dark" />
+</div>
 
-<summary><b>☄️ GitHub Streaks</b></summary>
-<br />
-<img height="180em" alt="GitHub streaks of Ismael Nicolas" src="https://github-readme-streak-stats.herokuapp.com?user=IsmaelNicolas&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" />
-
----
 
 <div align="center">🌍 <b>Visitors</b> 🌍</div>
 <div align="center">
@@ -64,17 +61,3 @@
 ### ⚡ Fun Fact:
 When I’m not coding, you can find me experimenting with new recipes or hiking through nature trails!
 
-<!--
-**IsmaelNicolas/IsmaelNicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
